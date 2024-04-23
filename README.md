@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prakash Mahara</h1>
 <h3 align="center">an AI/ML Enthusiast, IT Engineering Student @NCIT</h3>
 
-<p align="right" width="200"> <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="prakash27x" /> </p>
+<p align="center" width="100"> <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="prakash27x" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash27x&label=Profile%20views&color=0e75b6&style=flat" alt="prakash27x" /> </p>
 
@@ -32,5 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash27x&show_icons=true&locale=en&layout=compact" alt="prakash27x" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prakash27x&show_icons=true&locale=en" alt="prakash27x" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash27x&" alt="prakash27x" /></p>
