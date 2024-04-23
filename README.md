@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Prakash Mahara (प्रकाश महरा)</h1>
+<h1 align="center">Hi 👋, I'm Prakash Mahara (प्र.म.)</h1>
 <h3 align="center">an AI/ML Enthusiast, IT Engineering Student @NCIT</h3>
 
 <p align="center" width="400"> <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="prakash27x" /> </p>
