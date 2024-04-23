@@ -23,7 +23,7 @@
 <a href="https://instagram.com/prakash_27x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/prakash_27x" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@rpmvlog2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@rpmvlog2" height="30" width="40" /></a>
 <a href="https://discord.gg/@prakash27x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@prakash27x" height="30" width="40" /></a>
-<a href="https://medium.com/@prakash27x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prakash27x" height="30" width="40" /></a>
+// <a href="https://medium.com/@prakash27x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prakash27x" height="30" width="40" /></a>
 
 </p>
 
