@@ -6,7 +6,7 @@ https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4
 
 <p align="right" width="400"> <img src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" alt="prakash27x" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prakash27x" target="blank"><img src="https://img.shields.io/twitter/follow/prakash27x?logo=twitter&style=for-the-badge" alt="prakash27x" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash27x&label=Profile%20views&color=0e75b6&style=flat" alt="prakash27x" /> </p>
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
