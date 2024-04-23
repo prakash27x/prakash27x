@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [wwww.prakashmahara.com.np](wwww.prakashmahara.com.np)
 
-- 📝 I regularly write articles on [prakash27x.medium.com](https://medium.com/@prakash27x)
+- 📝 I write articles on [prakash27x.medium.com](https://medium.com/@prakash27x)
 
 - 📫 How to reach me **admin@prakashmahara.com.np**
 
