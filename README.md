@@ -1,7 +1,9 @@
+
+https://www.linkedin.com/in/prakash27x/overlay/background-image/
 <h1 align="center">Hi 👋, I'm Prakash Mahara</h1>
 <h3 align="center">an AI/ML Enthusiast, IT Engineering Student @NCIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash27x&label=Profile%20views&color=0e75b6&style=flat" alt="prakash27x" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="prakash27x" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prakash27x" target="blank"><img src="https://img.shields.io/twitter/follow/prakash27x?logo=twitter&style=for-the-badge" alt="prakash27x" /></a> </p>
 
