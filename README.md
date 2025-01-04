@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash27x&label=Profile%20views&color=0e75b6&style=flat" alt="prakash27x" /> </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning**
+- 🌱 I’m currently learning **FLUTTER, REACT**
 
 - 👨‍💻 All of my projects are available at [wwww.prakashmahara.com.np](wwww.prakashmahara.com.np)
 
