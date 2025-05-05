@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Prakash Mahara (प्र.म.)</h1>
 <h3 align="center">an IT Engineering Student @NCIT</h3>
 
- <p align="center" width="400"> <img src="" alt="prakash27x" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash27x&label=Profile%20views&color=0e75b6&style=flat" alt="prakash27x" /> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [wwww.prakashmahara.com.np](wwww.prakashmahara.com.np)
