@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [wwww.prakashmahara.com.np](wwww.prakashmahara.com.np)
+- 👨‍💻 All of my projects are available at [prakashmahara.com.np](https://wwww.prakashmahara.com.np)
 
 - 📝 I write articles on [prakash27x.medium.com](https://medium.com/@prakash27x)
 
