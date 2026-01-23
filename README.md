@@ -13,10 +13,7 @@
 - LinkedIn: [prakash27x](https://linkedin.com/in/prakash27x)
 - Facebook: [prakash27x](https://facebook.com/prakash27x)
 - Instagram: [prakash_27x](https://instagram.com/prakash_27x)
-- YouTube: [@rpmvlog2](https://www.youtube.com/@rpmvlog2)
-
-> Note: the Discord invite in the previous README used the format `discord.gg/@prakash27x` which is not a valid invite link. If you want a Discord invite badge/link, please provide a valid invite code (e.g. `https://discord.gg/<code>`) or your Discord tag (e.g. `username#1234`) and I can add it.
-
+- YouTube: [@rpmvlog2](https://www.youtube.com/@rpmvlog2)  [@Tech4KNepal](https://www.youtube.com/@tech4knepal)
 ---
 
 ### Languages & Tools
@@ -48,10 +45,3 @@
 <p>
   <img src="https://github-readme-streak-stats.demolab.com?user=prakash27x" alt="GitHub Streak" />
 </p>
-
----
-
-If you'd like, I can:
-- Add small social icon images (SVG badges) instead of text links.
-- Re-add a Discord badge once you provide a valid invite or your Discord tag.
-- Tweak colors, add a short "About me" paragraph, or include pinned projects.
