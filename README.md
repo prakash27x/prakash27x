@@ -1,7 +1,7 @@
 # Hi 👋, I'm Prakash Mahara (प्र.म.)
 ### an IT Engineering Student @ NCIT
 
-- 🌱 I’m currently learning **Machine Learning and React**
+- 🌱 I’m currently learning **ML and React**
 - 👨‍💻 All of my projects are available at [prakashmahara.com.np](https://www.prakashmahara.com.np)
 - 📝 I write articles on [prakash27x.medium.com](https://medium.com/@prakash27x)
 - 📫 How to reach me: [admin@prakashmahara.com.np](mailto:admin@prakashmahara.com.np)
