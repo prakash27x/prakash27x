@@ -35,19 +35,8 @@
 ---
 
 ### GitHub stats
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash27x&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages"
-    height="180em"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=prakash27x&show_icons=true&locale=en"
-    alt="GitHub Stats"
-    height="180em"
-  />
-
-</div>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash27x&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  &nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=prakash27x&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
