@@ -34,9 +34,7 @@
 
 ---
 
-### GitHub stats
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash27x&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=prakash27x&show_icons=true&count_private=true" alt="GitHub Stats" />
-</p>
+#### 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prakash27x&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=prakash27x&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=prakash27x&theme=slateorange&hide_border=false)
